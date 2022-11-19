@@ -1,7 +1,10 @@
 {
   "homepage": "https://curseforge.com/",
+  "1.18.2": {
+    "1.0.1": "Mod release",
+  },
   "promos": {
-    "1.18.2-latest": "1.0.3",
-    "1.18.2-recommended": "1.0.3"
+    "1.18.2-latest": "1.0.1",
+    "1.18.2-recommended": "1.0.1"
   }
 }
